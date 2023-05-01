@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+div{
+    width: 100vw;
+    height: 2vh;
+    padding: 20px;
+    margin: 20px;
+}
+#yellow{
+    background-color: yellow;
+    border-color: green;
+    border: 1px solid green;
+}
+#red{
+    background-color: red;
+    border-color: black;
+    border: 1px solid black;
+}
+#green{
+    background-color: green;
+    border-color: yellow;
+    border: 1px solid yellow;
+}
